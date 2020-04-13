@@ -4,3 +4,7 @@ __pychace__
 ./vscode
 /vscode
 vscode
+.coverage
+htmlconv
+/htmlconv/
+htmlconv/
