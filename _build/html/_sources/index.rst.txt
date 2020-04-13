@@ -1,20 +1,91 @@
-.. TaskBuster documentation master file, created by
-   sphinx-quickstart on Mon Apr 13 21:42:06 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
 
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
 Welcome to TaskBuster's documentation!
 ======================================
-
+ 
+This is an awesome **Django Project Boilerplate**!!
+ 
+With this code you can start a *complex* Django Project 
+very quickly, with just a few steps!
+ 
+Some of the TaskBuster Django Project Boilerplate functionalities are:
+ 
+- **different virtual environments** for developing, testing and production
+- **Internationalization** and **localization** to support different languages
+- Project structure
+- **HTML5 Boilerplate**
+- Template Inheritance
+- Functional **tests**
+- robots.txt and humans.txt configured
+ 
+Moreover, you can learn how to create this boilerplate **step by step**
+in the |taskbuster_tutorial|. There you can learn, step by step, how 
+TaskBuster has been done, and even do it yourself if you want to!!
+ 
+.. |taskbuster_tutorial| raw:: html
+ 
+    <a href="http://marinamele.com/taskbuster-django-tutorial" 
+    target="_blank">TaskBuster Django Tutorial</a>
+ 
+To start using the Boilerplate, check out the :doc:`requirements` 
+and next the :doc:`quick_start`.
+ 
+Contents
+--------
+ 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-
-
-
+ 
+   requirements
+   quick_start
+ 
+ 
 Indices and tables
 ==================
-
+ 
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
