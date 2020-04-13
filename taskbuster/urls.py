@@ -8,9 +8,12 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', home, name='home'),
     path('<filename>(robots.txt)|(humans.txt)', home_files, name='home-files'),
+    path('accounts/', include('allauth.urls')),
 ]
+
 
 urlpatterns += i18n_patterns(
     path('', home, name='home'),
     path('admin/', admin.site.urls),
+    # path('accounts/', include('allauth.urls')),
 )
