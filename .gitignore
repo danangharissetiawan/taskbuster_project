@@ -5,6 +5,6 @@ __pychace__
 /vscode
 vscode
 .coverage
-htmlconv
-/htmlconv/
-htmlconv/
+htmlcov/
+
+htmlcov
