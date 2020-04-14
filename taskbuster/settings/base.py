@@ -45,6 +45,8 @@ INSTALLED_APPS = [
     'allauth.socialaccount',
     # Login via Google
     'allauth.socialaccount.providers.google',
+    # Taskbuster apps
+    'taskbuster.apps.taskmanager',
 ]
 
 SITE_ID = 1
