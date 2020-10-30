@@ -17,30 +17,32 @@ Some of the TaskBuster Django Project Boilerplate functionalities are:
 - robots.txt and humans.txt configured
  
 Moreover, you can learn how to create this boilerplate **step by step**
-in the |taskbuster_tutorial|. There you can learn, step by step, how 
+in the [taskbuster_tutorial](href="http://marinamele.com/taskbuster-django-tutorial"). There you can learn, step by step, how 
 TaskBuster has been done, and even do it yourself if you want to!!
- 
-.. |taskbuster_tutorial| raw:: html
- 
-    <a href="http://marinamele.com/taskbuster-django-tutorial" 
-    target="_blank">TaskBuster Django Tutorial</a>
- 
-To start using the Boilerplate, check out the :doc:`requirements` 
-and next the :doc:`quick_start`.
+
+To start using the Boilerplate, check out the [`requirements`](/requrements.rst) 
+and next the [`quick_start`](/quick_start.rst).
  
 Contents
 --------
- 
-.. toctree::
-   :maxdepth: 2
- 
+
    requirements
    quick_start
  
  
-Indices and tables
-==================
- 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+Follow Me! 
+----------
+
+
+[<img align="left" alt="darisset.site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Danangharis1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="danang-haris-setiawan-darisset | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mr.danang_haris | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+[website]: https://darisset.site
+[twitter]: https://twitter.com/Danangharisset1
+[instagram]: https://www.instagram.com/mr.danang_haris
+[linkedin]: https://www.linkedin.com/in/danang-haris-setiawan-darisset
+[webdevplaylist]: https://github.com/danangharissetiawan/danangharissetiawan
