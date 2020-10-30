@@ -23,12 +23,6 @@ TaskBuster has been done, and even do it yourself if you want to!!
 To start using the Boilerplate, check out the [`requirements`](/requrements.rst) 
 and next the [`quick_start`](/quick_start.rst).
  
-Contents
---------
-
-   requirements
-   quick_start
- 
  
 Follow Me! 
 ----------
